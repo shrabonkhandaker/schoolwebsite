@@ -1,0 +1,70 @@
+.nav-item a{
+    font-size: 18px;
+    color: black;
+}
+.button1{
+    padding: 2px 6px;
+    border-radius: 12px;
+    background-color: green;
+    color: white;
+}
+.button1 a{
+    color: white;
+}
+.header{
+    background-color: lightgreen;
+    width: 1000px;
+    height: 500px;
+    left: 0;
+    top:0;
+}
+#bookactive{
+    box-shadow: 3px 3px 10px gray;
+    align-items: center;
+    text-align: center;
+    border-radius: 12px;
+}
+.bookpart{
+    text-align: center;
+    padding: 10px;
+}
+.bookpart{
+    margin-top: 20px;
+}
+.onlinepart{
+    margin: 30px;
+    border: none;
+}
+.onlinepartbutton{
+    background-color: lightgreen;
+    padding: 4px 20px;
+    border: none;
+    border-radius: 12px;
+    
+}
+.iconbottom{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.lastpart{
+    margin-top: 50px;
+    background-color: rgb(44, 16, 44);
+    width: 100%;
+    
+    color: white;
+}
+.lastpartoption{
+    padding-top: 50px;
+}
+footer{
+ margin-top: 100px;
+ 
+}
+.foot{
+    text-align: center;
+}
+.firstpart{
+    background-color: aquamarine;
+}
